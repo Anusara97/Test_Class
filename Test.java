@@ -9,6 +9,8 @@ public class Test {
 		String name = "Anusara";
 		String address = "Matara";
 
+		Display(name, address, 0);
+
 	}
 
 	public static void Display(String name, String address, int age) {
