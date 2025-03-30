@@ -1,5 +1,6 @@
 public class School {
-  public static void main (String [] args) {
-    System.out.println("My school is Rahula college");
-  }
+    public static void main(String[] args) {
+        String School = "Rahula College";
+        String address = "Matara";
+    }
 }
